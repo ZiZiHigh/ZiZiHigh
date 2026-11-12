@@ -56,5 +56,5 @@ Also: [homelab-ticketing](https://github.com/ZiZiHigh/homelab-ticketing), an osT
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
 
-<!-- Add the deployed web portfolio URL here once it is live. -->
+**[Portfolio → zizihigh.vercel.app](https://zizihigh.vercel.app/)**
 </div>
